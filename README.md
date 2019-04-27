@@ -17,3 +17,13 @@ Install Jupyter notebooks. Resources found at: https://jupyter.org/
 
 ## Data Found Here ##
 https://www.kaggle.com/c/santander-customer-transaction-prediction/data
+
+
+## Recommended use of Repository ##
+
+1. Download dataset from Kaggle link provided above
+2. Git clone repository
+3. Open jupyter notebooks 
+4. Run code cells
+5. Tweak models & hyperparameters
+6. Read attached report
