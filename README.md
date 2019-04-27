@@ -1,6 +1,8 @@
 # Banco_Santander_Competition_Kaggle
-List of supervised learning algorithms implemented along with detailed written report for a Kaggle competition.
+This repository walks through a list of supervised learning algorithms on a provided Kaggle dataset by Banco Santander. It also contains a detailed written report explaining each step and analyzing the end performance of my submission to the online competition. 
+
+## Installation & Libraries Needed ##
 
 
-## Acquire the Data ##
+## Data Found Here ##
 https://www.kaggle.com/c/santander-customer-transaction-prediction/data
