@@ -6,10 +6,10 @@ Install Jupyter notebooks. Resources found at: https://jupyter.org/
 
 `git clone` the repository and install the following libraries:
 
-`pip install python=3.6
-pip install keras
-pip install sklearn
-pip install seaborn`
+`pip install python=3.6`
+`pip install keras`
+`pip install sklearn`
+`pip install seaborn`
 
 
 ## Data Found Here ##
