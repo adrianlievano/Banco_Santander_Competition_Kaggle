@@ -26,4 +26,4 @@ https://www.kaggle.com/c/santander-customer-transaction-prediction/data
 3. Open jupyter notebooks 
 4. Run code cells
 5. Tweak models & hyperparameters
-6. Read attached report
+6. Read attached report, titled "041419 Udacity Capstone Project Report.pdf" in the github repository.
